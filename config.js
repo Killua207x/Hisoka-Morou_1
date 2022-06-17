@@ -26,15 +26,16 @@ global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    success: 'Done ✓',
+    admin: 'هـــذا الامـــر خـــاص بـــادمـــيـــن المـــجـــمـــوعـــة!',
+    botAdmin: 'هـــذا المـــر خـــص بادمـــيـــن الـــبـــوت!',
+    owner: 'هـــذا الامـــر خـــاص بـــصـــاحـــب الـــبـــوت!',
+    group: 'هـــذا الامـــر خـــاص بالمـــجـــمـــوعـــات!',
+    private: 'هـــذا الامـــر خـــاص بالـــمـــحـــادثة الخـــاصـــة!',
+    bot: 'هــذا الامـــر خـــاص بـــصـــاحـــب الـــبـــوت',
+    wait: 'جـــاري الـــتـــحـــمـــيـــل...',
+    error: 'خـــطأ!',
+    endLimit: 'وقــتــڪ الـــيـــومـــي انـــتـــهـــﯽ انـــتـــظـــر 12 ســـاعــة',
 }
 global.limitawal = {
     premium: "Infinity",
